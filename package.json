@@ -7,6 +7,7 @@
   "dependencies": {
     "@mui/icons-material": "^5.1.0",
     "@mui/material": "^5.1.0",
+    "core-js": "^3.32.2",
     "gatsby": "^4.12.1",
     "gatsby-plugin-advanced-sitemap": "^2.1.0",
     "gatsby-plugin-google-analytics": "^4.25.0",
@@ -49,7 +50,7 @@
     "build": "gatsby clean && gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,md}\"",
-    "deploy": "gatsby clean && gatsby build && gh-pages -d public",
+    "deploy": "gatsby build && gh-pages -d public",
     "start": "npm run develop",
     "serve": "gatsby serve",
     "clean": "gatsby clean",
