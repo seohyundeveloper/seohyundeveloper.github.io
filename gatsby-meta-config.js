@@ -1,6 +1,6 @@
 module.exports = {
   title: `Lani의 개발로그`,
-  description: `민서현의 개발일기`,
+  description: `Lani서현의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://github.com/seohyundeveloper/seohyundeveloper.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
