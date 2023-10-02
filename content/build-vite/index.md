@@ -3,8 +3,8 @@ emoji: 🍏
 title: Vite
 date: '2023-09-18 00:18:00'
 author: Lani서현
-tags: 빌드도구 vite 
-categories: 빌드도구 
+tags: 빌드도구 vite tools
+categories: Tools  
 ---
 
 ## Vite란
