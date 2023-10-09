@@ -33,11 +33,14 @@ Team > Project > File 이런 구조로 피그마는 구성되어 있습니다.
 
 피그마 Drafts 활용하기  
 Team안에 파일을 넣지 않고 아이디어나 시안을 잡을때 유용하게 작업할 수 있습니다.
+Figma의 인터페이스 구조는 canvas > page > Frame > layer 입니다.  
 
+### 4. Figma 단축키들  
 
-
-
-
-새파일 만들기 - ctrl + n
-
+새파일 만들기 - ctrl + n  
+크기 조정 룰러 기능 - shift + r  
+레이어 이름 바꾸기 - ctrl + r   
+여러 레이어 이름 바꾸기 = shift를 누르고 아이템을 여러개 선택한 후 ctrl + r 을 누르면 
+한꺼번에 이름이 바꿀 수 있는 팝업창이 나옵니다.  
+ctrl + shift + ? 단축키 보기
 
